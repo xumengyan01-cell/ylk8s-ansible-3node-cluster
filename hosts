@@ -1,0 +1,6 @@
+[kubernetes_master_nodes]
+master.young.com ansible_host=192.168.137.129
+
+[kubernetes_worker_nodes]
+worker01.young.com ansible_host=192.168.137.136
+worker02.young.com ansible_host=192.168.137.138
